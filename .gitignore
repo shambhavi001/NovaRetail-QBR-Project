@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+.env
+novaretail_agent/.env
+
+novaretail_venv/
+
+.vscode/

@@ -1,0 +1,57 @@
+SLIDE 1
+deck_title
+subtitle_1
+kpi1_box
+kpi1_value
+kpi1_label
+kpi2_box
+kpi2_value
+kpi2_label
+kpi3_box
+kpi3_value
+kpi3_label
+summary_label
+summary_text
+icon_1
+icon_1_label
+footer_1
+page_num_1
+
+SLIDE 2
+title_2
+chart_performance
+chart_performance_label
+insights_performance
+icon_2
+icon_2_label
+footer_2
+page_num_2
+
+SLIDE 3
+title_3
+chart_customer
+chart_customer_label
+insights_customer
+icon_3
+icon_3_label
+footer_3
+page_num_3
+
+SLIDE 4
+title_4
+chart_risk
+chart_risk_label
+insights_risk
+icon_4
+icon_4_label
+footer_4
+page_num_4
+
+SLIDE 5
+title_5
+recommendations_text
+icon_5
+icon_5_label
+closing_statement
+footer_5
+page_num_5
